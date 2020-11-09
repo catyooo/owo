@@ -3266,6 +3266,26 @@
                 "icon": "<img class=\"biaoqing\" data-src=\"/usr/themes/VOID/assets/libs/owo/biaoqing/paopao/E5BCB1_2x.png\">",
                 "data": "::(弱)",
                 "text": "弱"
+            },
+			{
+                "icon": "<img class=\"biaoqing\" data-src=\"/usr/themes/VOID/assets/libs/owo/biaoqing/paopao/E5989AE7919F_2x.png\">",
+                "data": "::(嘚瑟)",
+                "text": "嘚瑟"
+            },
+			{
+                "icon": "<img class=\"biaoqing\" data-src=\"/usr/themes/VOID/assets/libs/owo/biaoqing/paopao/E6838AE68190_2x.png\">",
+                "data": "::(惊恐)",
+                "text": "惊恐"
+            },
+			{
+                "icon": "<img class=\"biaoqing\" data-src=\"/usr/themes/VOID/assets/libs/owo/biaoqing/paopao/E59083E7BF94_2x.png\">",
+                "data": "::(吃翔)",
+                "text": "吃翔"
+            },
+			{
+                "icon": "<img class=\"biaoqing\" data-src=\"/usr/themes/VOID/assets/libs/owo/biaoqing/paopao/E59083E7939C_2x.png\">",
+                "data": "::(吃瓜)",
+                "text": "吃瓜"
             }
         ]
     }
